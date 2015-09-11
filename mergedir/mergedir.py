@@ -3,7 +3,7 @@ __author__ = 'dlohani'
 '''
 
 The class Mergedir is used to copy all the files in source directory
-plus all the files in all of it's source directory to
+plus all the files in all of it's sub directory to
 a single destination directory, hence merge directories
 
 
